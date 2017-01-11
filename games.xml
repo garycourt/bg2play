@@ -1,0 +1,4337 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<items totalitems="50" termsofuse="http://boardgamegeek.com/xmlapi/termsofuse" pubdate="Tue, 10 Jan 2017 19:44:55 +0000">
+		<item objecttype="thing" objectid="31260" subtype="boardgame" collid="30939968">
+	<name sortindex="1">Agricola</name>
+					<image>//cf.geekdo-images.com/images/pic352480.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic352480_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="5"																	minplaytime="30"																	maxplaytime="150"																	playingtime="150"																	numowned="55771" >
+				<rating value="10">			<usersrated value="46498" />			<average value="8.06848" />
+			<bayesaverage value="7.98083" />			<stddev value="1.56254" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11" bayesaverage="7.98064" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="11" bayesaverage="7.9606" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 12:15:00" />
+	<numplays>1</numplays>			<version>
+		<item type="boardgameversion" id="174151">
+         <thumbnail>//cf.geekdo-images.com/images/pic352480_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic352480.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="31260" value="Agricola" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="Z-Man Games second edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+			
+
+			               				<yearpublished value="0" />
+						               				<productcode value="" />
+						               				<width value="10.7" />
+						               				<length value="12.4" />
+						               				<depth value="2.2" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="54137" subtype="boardgame" collid="30939990">
+	<name sortindex="1">Battle Sheep</name>
+		<yearpublished>2014</yearpublished>			<image>//cf.geekdo-images.com/images/pic1887253.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1887253_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="15"																	maxplaytime="15"																	playingtime="15"																	numowned="2166" >
+				<rating value="8">			<usersrated value="1658" />			<average value="6.75453" />
+			<bayesaverage value="6.30379" />			<stddev value="1.21747" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1151" bayesaverage="6.30407" />
+																<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="76" bayesaverage="6.47022" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-30 13:51:53" />
+	<numplays>0</numplays>			<version>
+		<item type="boardgameversion" id="229417">
+         <thumbnail>//cf.geekdo-images.com/images/pic1887253_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1887253.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="54137" value="Battle Sheep" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English-only second edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="491" value="Blue Orange Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72919" value="Andrea Femerstrand" />
+		
+									
+			
+
+			               				<yearpublished value="2014" />
+						               				<productcode value="00830" />
+						               				<width value="10.7" />
+						               				<length value="10.7" />
+						               				<depth value="2.5" />
+						               				<weight value="2.6" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="155362" subtype="boardgame" collid="30939997">
+	<name sortindex="1">Ca$h &#039;n Guns (Second Edition)</name>
+		<yearpublished>2014</yearpublished>			<image>//cf.geekdo-images.com/images/pic2286092.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2286092_t.jpg</thumbnail>
+		<stats minplayers="4"																	maxplayers="8"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="10076" >
+				<rating value="7">			<usersrated value="6411" />			<average value="7.11748" />
+			<bayesaverage value="6.9103" />			<stddev value="1.17559" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="393" bayesaverage="6.9111" />
+																<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="25" bayesaverage="7.00848" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 12:15:34" />
+	<numplays>1</numplays>			<version>
+		<item type="boardgameversion" id="233175">
+         <thumbnail>//cf.geekdo-images.com/images/pic2286092_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2286092.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="155362" value="Ca$h 'n Guns (Second Edition)" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English/French/German edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4384" value="Repos Production" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="6815" value="John Kovalic" />
+		
+									
+			
+
+			               				<yearpublished value="2014" />
+						               				<productcode value="" />
+						               				<width value="11.7" />
+						               				<length value="11.7" />
+						               				<depth value="2.8" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2187" value="French" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2188" value="German" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="102794" subtype="boardgame" collid="30940130">
+	<name sortindex="1">Caverna: The Cave Farmers</name>
+		<yearpublished>2013</yearpublished>			<image>//cf.geekdo-images.com/images/pic1790789.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1790789_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="7"																	minplaytime="30"																	maxplaytime="210"																	playingtime="210"																	numowned="19539" >
+				<rating value="10">			<usersrated value="15309" />			<average value="8.20541" />
+			<bayesaverage value="8.02854" />			<stddev value="1.36986" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7" bayesaverage="8.02856" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="6" bayesaverage="8.04523" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 12:31:00" />
+	<numplays>2</numplays>			<version>
+		<item type="boardgameversion" id="213878">
+         <thumbnail>//cf.geekdo-images.com/images/pic1790789_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1790789.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="102794" value="Caverna: The Cave Farmers" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+			
+
+			               				<yearpublished value="2013" />
+						               				<productcode value="" />
+						               				<width value="8.86" />
+						               				<length value="12.4" />
+						               				<depth value="3.94" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="47" subtype="boardgame" collid="30940257">
+	<name sortindex="1">Chinatown</name>
+		<yearpublished>2014</yearpublished>			<image>//cf.geekdo-images.com/images/pic2037509.png</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2037509_t.png</thumbnail>
+		<stats minplayers="3"																	maxplayers="5"																	minplaytime="60"																	maxplaytime="60"																	playingtime="60"																	numowned="6640" >
+				<rating value="8">			<usersrated value="5596" />			<average value="7.22007" />
+			<bayesaverage value="6.97432" />			<stddev value="1.29636" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="339" bayesaverage="6.974" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="219" bayesaverage="7.02352" />
+								<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="43" bayesaverage="7.03768" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 12:31:12" />
+	<numplays>1</numplays>			<version>
+		<item type="boardgameversion" id="205793">
+         <thumbnail>//cf.geekdo-images.com/images/pic2037509_t.png</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2037509.png</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="47" value="Chinatown" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English/French third edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12107" value="Mathieu Leyssenne" />
+		
+									
+			
+
+			               				<yearpublished value="2014" />
+						               				<productcode value="" />
+						               				<width value="0" />
+						               				<length value="0" />
+						               				<depth value="0" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2187" value="French" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="178900" subtype="boardgame" collid="30940266">
+	<name sortindex="1">Codenames</name>
+		<yearpublished>2015</yearpublished>			<image>//cf.geekdo-images.com/images/pic2582929.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2582929_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="8"																	minplaytime="15"																	maxplaytime="15"																	playingtime="15"																	numowned="40267" >
+				<rating value="10">			<usersrated value="24875" />			<average value="7.96097" />
+			<bayesaverage value="7.84722" />			<stddev value="1.21972" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="20" bayesaverage="7.84599" />
+																<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="1" bayesaverage="7.87154" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 12:31:24" />
+	<numplays>7</numplays>			<version>
+		<item type="boardgameversion" id="275858">
+         <thumbnail>//cf.geekdo-images.com/images/pic2582929_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2582929.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="178900" value="Codenames" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7345" value="Czech Games Edition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28450" value="Tomáš Kučerovský" />
+		
+									
+			
+
+			               				<yearpublished value="2015" />
+						               				<productcode value="" />
+						               				<width value="0" />
+						               				<length value="0" />
+						               				<depth value="0" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="131357" subtype="boardgame" collid="30940353">
+	<name sortindex="1">Coup: The Resistance Universe</name>
+	<originalname>Coup</originalname>	<yearpublished>2013</yearpublished>			<image>//cf.geekdo-images.com/images/pic1812158.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1812158_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="6"																	minplaytime="15"																	maxplaytime="15"																	playingtime="15"																	numowned="30032" >
+				<rating value="10">			<usersrated value="18951" />			<average value="7.13975" />
+			<bayesaverage value="7.02809" />			<stddev value="1.39435" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="298" bayesaverage="7.02761" />
+																<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="28" bayesaverage="6.94681" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 12:38:47" />
+	<numplays>3</numplays>			<version>
+		<item type="boardgameversion" id="207504">
+         <thumbnail>//cf.geekdo-images.com/images/pic1812158_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1812158.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="131357" value="Coup" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English retail edition 2013" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10290" value="Indie Boards &amp; Cards" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14650" value="Luis Francisco" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="38447" value="Jarek Nocoń" />
+		
+									
+			
+
+			               				<yearpublished value="2013" />
+						               				<productcode value="" />
+						               				<width value="4" />
+						               				<length value="6" />
+						               				<depth value="1.25" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="192457" subtype="boardgame" collid="36336472">
+	<name sortindex="1">Cry Havoc</name>
+		<yearpublished>2016</yearpublished>			<image>//cf.geekdo-images.com/images/pic2888751.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2888751_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="90"																	maxplaytime="120"																	playingtime="120"																	numowned="3414" >
+				<rating value="N/A">			<usersrated value="1607" />			<average value="7.79479" />
+			<bayesaverage value="6.92166" />			<stddev value="1.40719" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="381" bayesaverage="6.92321" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="191" bayesaverage="7.07963" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="1" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2017-01-02 19:05:12" />
+	<numplays>0</numplays>			<version>
+		<item type="boardgameversion" id="298526">
+         <thumbnail>//cf.geekdo-images.com/images/pic2888751_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2888751.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="192457" value="Cry Havoc" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+			
+
+			      			
+
+			               				<yearpublished value="2016" />
+						               				<productcode value="" />
+						               				<width value="11.7" />
+						               				<length value="11.7" />
+						               				<depth value="2.8" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="36218" subtype="boardgame" collid="30940366">
+	<name sortindex="1">Dominion</name>
+		<yearpublished>2009</yearpublished>			<image>//cf.geekdo-images.com/images/pic699890.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic699890_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="68489" >
+				<rating value="8">			<usersrated value="53488" />			<average value="7.71186" />
+			<bayesaverage value="7.62065" />			<stddev value="1.42922" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="51" bayesaverage="7.62035" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="49" bayesaverage="7.57774" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 12:39:21" />
+	<numplays>2</numplays>			<version>
+		<item type="boardgameversion" id="28529">
+         <thumbnail>//cf.geekdo-images.com/images/pic699890_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic699890.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="36218" value="Dominion" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English second edition with SdJ" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11933" value="Matthias Catrein" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11854" value="Ryan Laukat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="4959" value="Harald Lieske" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="59" value="Marcel-André Casasola Merkle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11902" value="Claus Stephan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11797" value="Christof Tisch" />
+		
+									
+			
+
+			               				<yearpublished value="2009" />
+						               				<productcode value="" />
+						               				<width value="11.7" />
+						               				<length value="11.7" />
+						               				<depth value="2.8" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="172866" subtype="boardgame" collid="30940383">
+	<name sortindex="1">Dragon Punch</name>
+		<yearpublished>2016</yearpublished>			<image>//cf.geekdo-images.com/images/pic2459999.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2459999_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="5"																	maxplaytime="10"																	playingtime="10"																	numowned="691" >
+				<rating value="7">			<usersrated value="167" />			<average value="6.50838" />
+			<bayesaverage value="5.65369" />			<stddev value="1.50033" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4422" bayesaverage="5.65305" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2016-03-14 12:51:03" />
+	<numplays>2</numplays>			<version>
+		<item type="boardgameversion" id="269846">
+         <thumbnail>//cf.geekdo-images.com/images/pic2459999_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2459999.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="172866" value="Dragon Punch" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11752" value="Level 99 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27141" value="Most Mondays games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="78680" value="Robin Keijzer" />
+		
+									
+			
+
+			               				<yearpublished value="2016" />
+						               				<productcode value="" />
+						               				<width value="2.75591" />
+						               				<length value="3.93701" />
+						               				<depth value="0.393701" />
+						               				<weight value="0.110231" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="155703" subtype="boardgame" collid="30940760">
+	<name sortindex="1">Evolution</name>
+		<yearpublished>2015</yearpublished>			<image>//cf.geekdo-images.com/images/pic2558560.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2558560_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="6"																	minplaytime="50"																	maxplaytime="70"																	playingtime="70"																	numowned="9218" >
+				<rating value="9">			<usersrated value="6246" />			<average value="7.30663" />
+			<bayesaverage value="7.05335" />			<stddev value="1.2662" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="276" bayesaverage="7.05298" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="190" bayesaverage="7.08127" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2017-01-05 11:52:11" />
+	<numplays>1</numplays>			<version>
+		<item type="boardgameversion" id="271617">
+         <thumbnail>//cf.geekdo-images.com/images/pic2558560_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2558560.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="155703" value="Evolution" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English second edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2164" value="North Star Games, LLC" />
+		
+									
+			
+
+			      			
+
+			               				<yearpublished value="2015" />
+						               				<productcode value="" />
+						               				<width value="11.7" />
+						               				<length value="11.7" />
+						               				<depth value="2.8" />
+						               				<weight value="3" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="71074" subtype="boardgame" collid="30940471">
+	<name sortindex="1">Expedition: Northwest Passage</name>
+		<yearpublished>2013</yearpublished>			<image>//cf.geekdo-images.com/images/pic1681453.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1681453_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="60"																	maxplaytime="60"																	playingtime="60"																	numowned="1584" >
+				<rating value="10">			<usersrated value="1098" />			<average value="7.10058" />
+			<bayesaverage value="6.38167" />			<stddev value="1.23499" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1005" bayesaverage="6.38322" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="515" bayesaverage="6.52354" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2017-01-05 11:52:26" />
+	<numplays>2</numplays>			<version>
+		<item type="boardgameversion" id="170551">
+         <thumbnail>//cf.geekdo-images.com/images/pic1681453_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1681453.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="71074" value="Expedition: Northwest Passage" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="Matagot edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12386" value="Stéphane Poinsot" />
+		
+									
+			
+
+			               				<yearpublished value="2013" />
+						               				<productcode value="" />
+						               				<width value="9.13" />
+						               				<length value="13.35" />
+						               				<depth value="1.97" />
+						               				<weight value="1.5" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2187" value="French" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2188" value="German" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="103343" subtype="boardgame" collid="30940490">
+	<name sortindex="3">A Game of Thrones: The Board Game (Second Edition)</name>
+		<yearpublished>2011</yearpublished>			<image>//cf.geekdo-images.com/images/pic1077906.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1077906_t.jpg</thumbnail>
+		<stats minplayers="3"																	maxplayers="6"																	minplaytime="120"																	maxplaytime="240"																	playingtime="240"																	numowned="21373" >
+				<rating value="9">			<usersrated value="16479" />			<average value="7.74977" />
+			<bayesaverage value="7.5532" />			<stddev value="1.49296" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="64" bayesaverage="7.55323" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="59" bayesaverage="7.52172" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 12:48:38" />
+	<numplays>1</numplays>			<version>
+		<item type="boardgameversion" id="112533">
+         <thumbnail>//cf.geekdo-images.com/images/pic1077906_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1077906.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="103343" value="A Game of Thrones: The Board Game (Second Edition)" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English second edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12019" value="Tomasz Jedruszek" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24858" value="Henning Ludvigsen" />
+		
+									
+			
+
+			               				<yearpublished value="2011" />
+						               				<productcode value="FFGVA65" />
+						               				<width value="11.8" />
+						               				<length value="11.8" />
+						               				<depth value="3" />
+						               				<weight value="4.6" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="173090" subtype="boardgame" collid="30940501">
+	<name sortindex="5">The Game: Are you ready to play The Game?</name>
+	<originalname>The Game</originalname>	<yearpublished>2015</yearpublished>			<image>//cf.geekdo-images.com/images/pic2571141.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2571141_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="5"																	minplaytime="20"																	maxplaytime="20"																	playingtime="20"																	numowned="4440" >
+				<rating value="9">			<usersrated value="2950" />			<average value="6.76995" />
+			<bayesaverage value="6.46687" />			<stddev value="1.29255" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="863" bayesaverage="6.46716" />
+																<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="194" bayesaverage="6.5418" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2016-01-14 23:23:59" />
+	<numplays>3</numplays>			<version>
+		<item type="boardgameversion" id="277784">
+         <thumbnail>//cf.geekdo-images.com/images/pic2571141_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2571141.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="173090" value="The Game" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26024" value="IDW Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21847" value="Pandasaurus Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11901" value="Oliver Freudenreich" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66181" value="Sandra Freudenreich" />
+		
+									
+			
+
+			               				<yearpublished value="2015" />
+						               				<productcode value="IDW00946" />
+						               				<width value="5.75" />
+						               				<length value="4.5" />
+						               				<depth value="1" />
+						               				<weight value="0.5" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="143693" subtype="boardgame" collid="35943511">
+	<name sortindex="1">Glass Road</name>
+		<yearpublished>2013</yearpublished>			<image>//cf.geekdo-images.com/images/pic2499302.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2499302_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="4"																	minplaytime="75"																	maxplaytime="75"																	playingtime="75"																	numowned="6755" >
+				<rating value="8">			<usersrated value="5438" />			<average value="7.50337" />
+			<bayesaverage value="7.22365" />			<stddev value="1.22502" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="178" bayesaverage="7.22352" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="110" bayesaverage="7.29709" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2016-10-15 12:45:18" />
+	<numplays>1</numplays>			<version>
+		<item type="boardgameversion" id="213209">
+         <thumbnail>//cf.geekdo-images.com/images/pic2499302_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2499302.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="143693" value="Glass Road" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12484" value="Dennis Lohausen" />
+		
+									
+			
+
+			               				<yearpublished value="2013" />
+						               				<productcode value="" />
+						               				<width value="8.8" />
+						               				<length value="12.4" />
+						               				<depth value="2.4" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="98778" subtype="boardgame" collid="30940508">
+	<name sortindex="1">Hanabi</name>
+		<yearpublished>2013</yearpublished>			<image>//cf.geekdo-images.com/images/pic2007286.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2007286_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="25"																	maxplaytime="25"																	playingtime="25"																	numowned="35281" >
+				<rating value="8">			<usersrated value="22090" />			<average value="7.23307" />
+			<bayesaverage value="7.14893" />			<stddev value="1.34315" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="218" bayesaverage="7.14874" />
+																<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="30" bayesaverage="7.14968" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 12:48:50" />
+	<numplays>0</numplays>			<version>
+		<item type="boardgameversion" id="203449">
+         <thumbnail>//cf.geekdo-images.com/images/pic2007286_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2007286.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="98778" value="Hanabi" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="105" value="R&amp;R Games" />
+		
+									
+			
+
+			      			
+
+			               				<yearpublished value="2013" />
+						               				<productcode value="869" />
+						               				<width value="3.9" />
+						               				<length value="4.9" />
+						               				<depth value="1" />
+						               				<weight value="0.4" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="191862" subtype="boardgame" collid="34917853">
+	<name sortindex="1">Imhotep</name>
+		<yearpublished>2016</yearpublished>			<image>//cf.geekdo-images.com/images/pic3029488.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic3029488_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="40"																	maxplaytime="40"																	playingtime="40"																	numowned="3897" >
+				<rating value="9">			<usersrated value="2412" />			<average value="7.33571" />
+			<bayesaverage value="6.83139" />			<stddev value="1.15326" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="461" bayesaverage="6.83664" />
+																<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="61" bayesaverage="6.97323" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2016-12-04 17:01:01" />
+	<numplays>5</numplays>			<version>
+		<item type="boardgameversion" id="298476">
+         <thumbnail>//cf.geekdo-images.com/images/pic3029488_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic3029488.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="191862" value="Imhotep" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+			
+
+			      			
+
+			               				<yearpublished value="2016" />
+						               				<productcode value="" />
+						               				<width value="11.7" />
+						               				<length value="11.7" />
+						               				<depth value="2.8" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="148949" subtype="boardgame" collid="30940525">
+	<name sortindex="1">Istanbul</name>
+		<yearpublished>2014</yearpublished>			<image>//cf.geekdo-images.com/images/pic1950623.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1950623_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="40"																	maxplaytime="60"																	playingtime="60"																	numowned="13754" >
+				<rating value="8">			<usersrated value="10721" />			<average value="7.62836" />
+			<bayesaverage value="7.44929" />			<stddev value="1.10482" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="90" bayesaverage="7.44913" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="67" bayesaverage="7.47122" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 12:48:58" />
+	<numplays>1</numplays>			<version>
+		<item type="boardgameversion" id="234599">
+         <thumbnail>//cf.geekdo-images.com/images/pic1950623_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1950623.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="148949" value="Istanbul" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English-only first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="396" value="Alderac Entertainment Group (AEG)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11898" value="Andreas Resch" />
+		
+									
+			
+
+			               				<yearpublished value="2014" />
+						               				<productcode value="AEG 5809" />
+						               				<width value="12.5" />
+						               				<length value="8.85" />
+						               				<depth value="3" />
+						               				<weight value="2.8" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="54043" subtype="boardgame" collid="30940530">
+	<name sortindex="1">Jaipur</name>
+		<yearpublished>2014</yearpublished>			<image>//cf.geekdo-images.com/images/pic1768286.png</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1768286_t.png</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="22650" >
+				<rating value="9">			<usersrated value="16601" />			<average value="7.5445" />
+			<bayesaverage value="7.41881" />			<stddev value="1.08283" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="100" bayesaverage="7.41833" />
+																<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="9" bayesaverage="7.44462" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 12:49:03" />
+	<numplays>2</numplays>			<version>
+		<item type="boardgameversion" id="260621">
+         <thumbnail>//cf.geekdo-images.com/images/pic1768286_t.png</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1768286.png</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="54043" value="Jaipur" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English/French/German/Spanish fifth edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6347" value="GameWorks SàRL" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12282" value="Alexandre Roche" />
+		
+									
+			
+
+			               				<yearpublished value="2014" />
+						               				<productcode value="2014-1/JAI01/LU001" />
+						               				<width value="0" />
+						               				<length value="0" />
+						               				<depth value="0" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2187" value="French" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2188" value="German" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2203" value="Spanish" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="73761" subtype="boardgame" collid="30940611">
+	<name sortindex="1">K2</name>
+		<yearpublished>2014</yearpublished>			<image>//cf.geekdo-images.com/images/pic2070795.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2070795_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="5"																	minplaytime="60"																	maxplaytime="60"																	playingtime="60"																	numowned="6519" >
+				<rating value="8">			<usersrated value="6188" />			<average value="7.14538" />
+			<bayesaverage value="6.92266" />			<stddev value="1.22386" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="380" bayesaverage="6.92247" />
+																<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="110" bayesaverage="6.94524" />
+								<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="63" bayesaverage="6.96728" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 12:55:30" />
+	<numplays>1</numplays>			<version>
+		<item type="boardgameversion" id="245070">
+         <thumbnail>//cf.geekdo-images.com/images/pic2070795_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2070795.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="73761" value="K2" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="REBEL.pl English/Polish Third edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="REBEL.pl" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="38447" value="Jarek Nocoń" />
+		
+									
+			
+
+			               				<yearpublished value="2014" />
+						               				<productcode value="RCG0015" />
+						               				<width value="11.811" />
+						               				<length value="11.811" />
+						               				<depth value="3.14961" />
+						               				<weight value="2.64555" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2199" value="Polish" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="164354" subtype="boardgame" collid="30940622">
+	<name sortindex="1">Kryptos</name>
+		<yearpublished>2014</yearpublished>			<image>//cf.geekdo-images.com/images/pic2304541.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2304541_t.jpg</thumbnail>
+		<stats minplayers="3"																	maxplayers="6"																	minplaytime="15"																	maxplaytime="15"																	playingtime="15"																	numowned="281" >
+				<rating value="7">			<usersrated value="205" />			<average value="6.6061" />
+			<bayesaverage value="5.71238" />			<stddev value="1.1847" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3624" bayesaverage="5.71238" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2016-05-23 12:47:17" />
+	<numplays>2</numplays>			<version>
+		<item type="boardgameversion" id="249362">
+         <thumbnail>//cf.geekdo-images.com/images/pic2304541_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2304541.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="164354" value="Kryptos" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="Multilingual first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27316" value="Trefl Joker Line" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11284" value="Łukasz M. Pogoda" />
+		
+									
+			
+
+			               				<yearpublished value="2014" />
+						               				<productcode value="" />
+						               				<width value="3.74016" />
+						               				<length value="3.74016" />
+						               				<depth value="1.37795" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2188" value="German" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2199" value="Polish" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="155495" subtype="boardgame" collid="32478544">
+	<name sortindex="1">KUNE v LAKIA: A Chronicle Of A Royal Lapine Divorce Foretold</name>
+		<yearpublished>2015</yearpublished>			<image>//cf.geekdo-images.com/images/pic2621988.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2621988_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="15"																	maxplaytime="30"																	playingtime="30"																	numowned="379" >
+				<rating value="7">			<usersrated value="117" />			<average value="6.9212" />
+			<bayesaverage value="5.67097" />			<stddev value="1.2108" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4170" bayesaverage="5.67314" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2016-05-23 12:47:13" />
+	<numplays>2</numplays>			<version>
+		<item type="boardgameversion" id="233443">
+         <thumbnail>//cf.geekdo-images.com/images/pic2621988_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2621988.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="155495" value="KUNE v LAKIA: A Chronicle Of A Royal Lapine Divorce Foretold" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="First edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24881" value="LudiCreations" />
+		
+									
+			
+
+			      			
+
+			               				<yearpublished value="2015" />
+						               				<productcode value="" />
+						               				<width value="3.7" />
+						               				<length value="4.7" />
+						               				<depth value="0.8" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="173064" subtype="boardgame" collid="30940626">
+	<name sortindex="1">Leaving Earth</name>
+		<yearpublished>2015</yearpublished>			<image>//cf.geekdo-images.com/images/pic2624698.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2624698_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="5"																	minplaytime="60"																	maxplaytime="180"																	playingtime="180"																	numowned="1390" >
+				<rating value="9">			<usersrated value="568" />			<average value="8.02273" />
+			<bayesaverage value="6.44521" />			<stddev value="1.47813" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="889" bayesaverage="6.44891" />
+																<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="139" bayesaverage="6.80873" />
+								<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="440" bayesaverage="6.62458" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2016-07-30 01:56:18" />
+	<numplays>3</numplays>			<version>
+		<item type="boardgameversion" id="266053">
+         <thumbnail>//cf.geekdo-images.com/images/pic2624698_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2624698.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="173064" value="Leaving Earth" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="First edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21134" value="The Lumenaris Group, Inc." />
+		
+									
+			
+
+			      			
+
+			               				<yearpublished value="2015" />
+						               				<productcode value="" />
+						               				<width value="5.5" />
+						               				<length value="8" />
+						               				<depth value="2" />
+						               				<weight value="1.5" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="153065" subtype="boardgame" collid="30940629">
+	<name sortindex="1">Linko!</name>
+		<yearpublished>2014</yearpublished>			<image>//cf.geekdo-images.com/images/pic2342294.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2342294_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="20"																	maxplaytime="20"																	playingtime="20"																	numowned="3608" >
+				<rating value="10">			<usersrated value="2360" />			<average value="7.10263" />
+			<bayesaverage value="6.66709" />			<stddev value="1.17169" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="600" bayesaverage="6.66701" />
+																<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="99" bayesaverage="6.79343" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2016-01-27 17:08:55" />
+	<numplays>3</numplays>			<version>
+						<year>2015</year>
+								<other>Self assembled using Flinch cards</other>
+					</version>
+						</item>
+		<item objecttype="thing" objectid="129622" subtype="boardgame" collid="30940632">
+	<name sortindex="1">Love Letter</name>
+		<yearpublished>2012</yearpublished>			<image>//cf.geekdo-images.com/images/pic1686975.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1686975_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="20"																	maxplaytime="20"																	playingtime="20"																	numowned="56385" >
+				<rating value="9">			<usersrated value="33468" />			<average value="7.3282" />
+			<bayesaverage value="7.24715" />			<stddev value="1.31727" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="163" bayesaverage="7.24681" />
+																<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="20" bayesaverage="7.23142" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 12:55:44" />
+	<numplays>3</numplays>			<version>
+		<item type="boardgameversion" id="177460">
+         <thumbnail>//cf.geekdo-images.com/images/pic1686975_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1686975.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="129622" value="Love Letter" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English second edition in blister pack" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="English Tempest edition" />
+			
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="396" value="Alderac Entertainment Group (AEG)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14344" value="Andrew Hepworth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14593" value="Jeff Himmelman" />
+		
+									
+			
+
+			               				<yearpublished value="2012" />
+						               				<productcode value="AEG5104" />
+						               				<width value="7.5" />
+						               				<length value="4.7" />
+						               				<depth value="1.3" />
+						               				<weight value="0.2" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="175239" subtype="boardgame" collid="35517568">
+	<name sortindex="1">Machi Koro: Deluxe Edition</name>
+		<yearpublished>2015</yearpublished>			<image>//cf.geekdo-images.com/images/pic2486977.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2486977_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="3140" >
+				<rating value="7">			<usersrated value="1269" />			<average value="7.25376" />
+			<bayesaverage value="6.4885" />			<stddev value="1.26201" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.48986" />
+																<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="Not Ranked" bayesaverage="6.6136" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2016-08-17 17:42:34" />
+	<numplays>1</numplays>			<version>
+		<item type="boardgameversion" id="269599">
+         <thumbnail>//cf.geekdo-images.com/images/pic2486977_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2486977.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="175239" value="Machi Koro: Deluxe Edition" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26024" value="IDW Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21847" value="Pandasaurus Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69648" value="Noboru Hotta" />
+		
+									
+			
+
+			               				<yearpublished value="2015" />
+						               				<productcode value="IDW00894" />
+						               				<width value="9.5" />
+						               				<length value="9.5" />
+						               				<depth value="3" />
+						               				<weight value="2.5" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="139030" subtype="boardgame" collid="30940636">
+	<name sortindex="1">Mascarade</name>
+		<yearpublished>2013</yearpublished>			<image>//cf.geekdo-images.com/images/pic1762410.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1762410_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="13"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="8724" >
+				<rating value="8">			<usersrated value="5730" />			<average value="6.73457" />
+			<bayesaverage value="6.54609" />			<stddev value="1.37511" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="759" bayesaverage="6.54686" />
+																<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="61" bayesaverage="6.56794" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 12:55:48" />
+	<numplays>3</numplays>			<version>
+		<item type="boardgameversion" id="201613">
+         <thumbnail>//cf.geekdo-images.com/images/pic1762410_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1762410.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="139030" value="Mascarade" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="Multilingual first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4384" value="Repos Production" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="63947" value="Jérémy Masson" />
+		
+									
+			
+
+			               				<yearpublished value="2013" />
+						               				<productcode value="ASMMASC01" />
+						               				<width value="7.8" />
+						               				<length value="4.2" />
+						               				<depth value="1.5" />
+						               				<weight value="0.8" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2183" value="Dutch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2200" value="Portuguese" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2203" value="Spanish" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="176920" subtype="boardgame" collid="38481758">
+	<name sortindex="1">Mission: Red Planet (second edition)</name>
+		<yearpublished>2015</yearpublished>			<image>//cf.geekdo-images.com/images/pic2499748.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2499748_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="6"																	minplaytime="45"																	maxplaytime="90"																	playingtime="90"																	numowned="5473" >
+				<rating value="8">			<usersrated value="3354" />			<average value="7.68755" />
+			<bayesaverage value="7.22392" />			<stddev value="1.10552" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="177" bayesaverage="7.22406" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="105" bayesaverage="7.31092" />
+								<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="13" bayesaverage="7.34163" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2016-12-08 14:47:56" />
+	<numplays>2</numplays>			<version>
+		<item type="boardgameversion" id="272434">
+         <thumbnail>//cf.geekdo-images.com/images/pic2499748_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2499748.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="176920" value="Mission: Red Planet (second edition)" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+			
+
+			      			
+
+			               				<yearpublished value="2015" />
+						               				<productcode value="VA93" />
+						               				<width value="11.7" />
+						               				<length value="11.7" />
+						               				<depth value="2.8" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="150298" subtype="boardgame" collid="30940666">
+	<name sortindex="1">One Zero One</name>
+		<yearpublished>2015</yearpublished>			<image>//cf.geekdo-images.com/images/pic2330461.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2330461_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="10"																	maxplaytime="15"																	playingtime="15"																	numowned="795" >
+				<rating value="7">			<usersrated value="323" />			<average value="6.82188" />
+			<bayesaverage value="5.85238" />			<stddev value="1.21353" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2598" bayesaverage="5.85238" />
+																<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="147" bayesaverage="6.19601" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 12:57:11" />
+	<numplays>1</numplays>			<version>
+		<item type="boardgameversion" id="244976">
+         <thumbnail>//cf.geekdo-images.com/images/pic2330461_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2330461.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="150298" value="One Zero One" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English second edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27311" value="Grail Games" />
+		
+									
+			
+
+			      			
+
+			               				<yearpublished value="2015" />
+						               				<productcode value="GRL1010" />
+						               				<width value="4.4" />
+						               				<length value="4.4" />
+						               				<depth value="2.2" />
+						               				<weight value="0.5" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="163412" subtype="boardgame" collid="30940778">
+	<name sortindex="1">Patchwork</name>
+		<yearpublished>2014</yearpublished>			<image>//cf.geekdo-images.com/images/pic2270442.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2270442_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="15"																	maxplaytime="30"																	playingtime="30"																	numowned="22816" >
+				<rating value="7">			<usersrated value="15138" />			<average value="7.85211" />
+			<bayesaverage value="7.69925" />			<stddev value="1.06466" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="38" bayesaverage="7.69987" />
+																<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1" bayesaverage="7.65259" />
+								<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2" bayesaverage="7.73667" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 13:05:04" />
+	<numplays>3</numplays>			<version>
+		<item type="boardgameversion" id="256229">
+         <thumbnail>//cf.geekdo-images.com/images/pic2270442_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2270442.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="163412" value="Patchwork" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10" value="Mayfair Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+			
+
+			               				<yearpublished value="2014" />
+						               				<productcode value="MFG3505" />
+						               				<width value="7.67" />
+						               				<length value="7.67" />
+						               				<depth value="1.77" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="125548" subtype="boardgame" collid="30940798">
+	<name sortindex="1">Pixel Tactics</name>
+		<yearpublished>2013</yearpublished>			<image>//cf.geekdo-images.com/images/pic1707205.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1707205_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="45"																	maxplaytime="45"																	playingtime="45"																	numowned="4200" >
+				<rating value="8">			<usersrated value="1870" />			<average value="7.14258" />
+			<bayesaverage value="6.58924" />			<stddev value="1.35067" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="693" bayesaverage="6.58955" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="413" bayesaverage="6.66216" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 13:05:25" />
+	<numplays>0</numplays>			<version>
+		<item type="boardgameversion" id="213361">
+         <thumbnail>//cf.geekdo-images.com/images/pic1707205_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1707205.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="125548" value="Pixel Tactics" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English second edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11752" value="Level 99 Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46478" value="Fábio Fontes" />
+		
+									
+			
+
+			               				<yearpublished value="2013" />
+						               				<productcode value="L99PT001" />
+						               				<width value="6.5" />
+						               				<length value="4" />
+						               				<depth value="1" />
+						               				<weight value="0.4" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="137423" subtype="boardgame" collid="30940804">
+	<name sortindex="1">Pixel Tactics 2</name>
+		<yearpublished>2013</yearpublished>			<image>//cf.geekdo-images.com/images/pic1643310.png</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1643310_t.png</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="45"																	maxplaytime="45"																	playingtime="45"																	numowned="2330" >
+				<rating value="8">			<usersrated value="689" />			<average value="7.28205" />
+			<bayesaverage value="6.27049" />			<stddev value="1.35298" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1214" bayesaverage="6.27049" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 13:05:23" />
+	<numplays>0</numplays>			<version>
+		<item type="boardgameversion" id="198055">
+         <thumbnail>//cf.geekdo-images.com/images/pic1643310_t.png</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1643310.png</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="137423" value="Pixel Tactics 2" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11752" value="Level 99 Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46478" value="Fábio Fontes" />
+		
+									
+			
+
+			               				<yearpublished value="2013" />
+						               				<productcode value="L99PT002" />
+						               				<width value="6.5" />
+						               				<length value="4" />
+						               				<depth value="1" />
+						               				<weight value="0.4" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="154259" subtype="boardgame" collid="30940825">
+	<name sortindex="1">Province</name>
+		<yearpublished>2014</yearpublished>			<image>//cf.geekdo-images.com/images/pic1920775.png</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1920775_t.png</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="25"																	maxplaytime="25"																	playingtime="25"																	numowned="2703" >
+				<rating value="7">			<usersrated value="1061" />			<average value="6.43681" />
+			<bayesaverage value="6.00957" />			<stddev value="1.24408" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1910" bayesaverage="6.00824" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="907" bayesaverage="6.05784" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 13:05:35" />
+	<numplays>0</numplays>			<version>
+		<item type="boardgameversion" id="231125">
+         <thumbnail>//cf.geekdo-images.com/images/pic1920775_t.png</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1920775.png</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="154259" value="Province" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24617" value="Laboratory Games" />
+		
+									
+			
+
+			      			
+
+			               				<yearpublished value="2014" />
+						               				<productcode value="LBL200" />
+						               				<width value="4.3" />
+						               				<length value="6.3" />
+						               				<depth value="1.5" />
+						               				<weight value="0.3" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="177639" subtype="boardgame" collid="31871073">
+	<name sortindex="1">Raptor</name>
+		<yearpublished>2015</yearpublished>			<image>//cf.geekdo-images.com/images/pic2520016.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2520016_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="25"																	maxplaytime="25"																	playingtime="25"																	numowned="3246" >
+				<rating value="8">			<usersrated value="1784" />			<average value="7.5568" />
+			<bayesaverage value="6.86165" />			<stddev value="1.14088" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="435" bayesaverage="6.86173" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="233" bayesaverage="6.99221" />
+								<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="46" bayesaverage="7.03046" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2016-12-04 17:00:24" />
+	<numplays>2</numplays>			<version>
+		<item type="boardgameversion" id="273709">
+         <thumbnail>//cf.geekdo-images.com/images/pic2520016_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2520016.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="177639" value="Raptor" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="Multilingual first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12130" value="Vincent Dutrait" />
+		
+									
+			
+
+			               				<yearpublished value="2015" />
+						               				<productcode value="RAP01" />
+						               				<width value="8.375" />
+						               				<length value="10.75" />
+						               				<depth value="2.5" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2183" value="Dutch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2187" value="French" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2203" value="Spanish" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="33451" subtype="boardgame" collid="32819155">
+	<name sortindex="5">The Red Dragon Inn 2</name>
+		<yearpublished>2012</yearpublished>			<image>//cf.geekdo-images.com/images/pic560218.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic560218_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="45"																	maxplaytime="45"																	playingtime="45"																	numowned="3696" >
+				<rating value="8">			<usersrated value="2004" />			<average value="6.91448" />
+			<bayesaverage value="6.44152" />			<stddev value="1.47717" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="900" bayesaverage="6.44172" />
+																<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="199" bayesaverage="6.5592" />
+								<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="68" bayesaverage="6.50978" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2016-02-27 15:45:49" />
+	<numplays>1</numplays>			<version>
+		<item type="boardgameversion" id="279092">
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="33451" value="The Red Dragon Inn 2" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English Third Edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2396" value="SlugFest Games" />
+		
+									
+			
+
+			      			
+
+			               				<yearpublished value="2012" />
+						               				<productcode value="" />
+						               				<width value="11.7" />
+						               				<length value="11.7" />
+						               				<depth value="2.8" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="128882" subtype="boardgame" collid="30940853">
+	<name sortindex="5">The Resistance: Avalon</name>
+		<yearpublished>2012</yearpublished>			<image>//cf.geekdo-images.com/images/pic1398895.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1398895_t.jpg</thumbnail>
+		<stats minplayers="5"																	maxplayers="10"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="20753" >
+				<rating value="10">			<usersrated value="14663" />			<average value="7.74215" />
+			<bayesaverage value="7.57385" />			<stddev value="1.4972" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="60" bayesaverage="7.57382" />
+																<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="3" bayesaverage="7.53594" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 13:06:03" />
+	<numplays>3</numplays>			<version>
+		<item type="boardgameversion" id="175201">
+         <thumbnail>//cf.geekdo-images.com/images/pic1398895_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1398895.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="128882" value="The Resistance: Avalon" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10290" value="Indie Boards &amp; Cards" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14650" value="Luis Francisco" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49082" value="George Patsouras" />
+		
+									
+			
+
+			               				<yearpublished value="2012" />
+						               				<productcode value="IBCAVA1" />
+						               				<width value="8" />
+						               				<length value="6" />
+						               				<depth value="2" />
+						               				<weight value="0.7" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="40692" subtype="boardgame" collid="30940957">
+	<name sortindex="1">Small World</name>
+		<yearpublished>2012</yearpublished>			<image>//cf.geekdo-images.com/images/pic2865580.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2865580_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="40"																	maxplaytime="80"																	playingtime="80"																	numowned="51436" >
+				<rating value="8">			<usersrated value="41051" />			<average value="7.36795" />
+			<bayesaverage value="7.28974" />			<stddev value="1.2913" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="142" bayesaverage="7.28975" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="123" bayesaverage="7.24681" />
+								<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="15" bayesaverage="7.27944" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2016-06-03 22:56:23" />
+	<numplays>2</numplays>			<version>
+		<item type="boardgameversion" id="294178">
+         <thumbnail>//cf.geekdo-images.com/images/pic2865580_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2865580.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="40692" value="Small World" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="Game of the Year 2012 Edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1027" value="Days of Wonder" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12016" value="Miguel Coimbra" />
+		
+									
+			
+
+			               				<yearpublished value="2012" />
+						               				<productcode value="" />
+						               				<width value="11.7" />
+						               				<length value="11.7" />
+						               				<depth value="2.8" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="97786" subtype="boardgame" collid="38792510">
+	<name sortindex="1">Small World Underground</name>
+		<yearpublished>2011</yearpublished>			<image>//cf.geekdo-images.com/images/pic979889.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic979889_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="30"																	maxplaytime="90"																	playingtime="90"																	numowned="10728" >
+				<rating value="8">			<usersrated value="6718" />			<average value="7.38765" />
+			<bayesaverage value="7.1372" />			<stddev value="1.27241" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="222" bayesaverage="7.13694" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="157" bayesaverage="7.15737" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2017-01-02 19:05:42" />
+	<numplays>1</numplays>			<version>
+		<item type="boardgameversion" id="96692">
+         <thumbnail>//cf.geekdo-images.com/images/pic979889_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic979889.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="97786" value="Small World Underground" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1027" value="Days of Wonder" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12016" value="Miguel Coimbra" />
+		
+									
+			
+
+			               				<yearpublished value="2011" />
+						               				<productcode value="DOW 7909" />
+						               				<width value="11.7" />
+						               				<length value="11.7" />
+						               				<depth value="2.8" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="38054" subtype="boardgame" collid="37500580">
+	<name sortindex="1">Snow Tails</name>
+		<yearpublished>2009</yearpublished>			<image>//cf.geekdo-images.com/images/pic472712.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic472712_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="45"																	maxplaytime="60"																	playingtime="60"																	numowned="4914" >
+				<rating value="9">			<usersrated value="4696" />			<average value="6.99998" />
+			<bayesaverage value="6.76514" />			<stddev value="1.17979" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="516" bayesaverage="6.76517" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="317" bayesaverage="6.81721" />
+								<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="84" bayesaverage="6.83643" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2016-10-20 10:27:38" />
+	<numplays>1</numplays>			<version>
+		<item type="boardgameversion" id="20650">
+         <thumbnail>//cf.geekdo-images.com/images/pic472712_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic472712.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="38054" value="Snow Tails" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="Multilingual second edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="21070" value="Bertrand Benoit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12402" value="Stéphane Gantiez" />
+		
+									
+			
+
+			               				<yearpublished value="2009" />
+						               				<productcode value="SNW01" />
+						               				<width value="11.7" />
+						               				<length value="11.7" />
+						               				<depth value="2.8" />
+						               				<weight value="2.875" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2183" value="Dutch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2187" value="French" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2188" value="German" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="language" id="2203" value="Spanish" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="148228" subtype="boardgame" collid="30940959">
+	<name sortindex="1">Splendor</name>
+		<yearpublished>2014</yearpublished>			<image>//cf.geekdo-images.com/images/pic1904079.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1904079_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="34964" >
+				<rating value="8">			<usersrated value="26281" />			<average value="7.55727" />
+			<bayesaverage value="7.45154" />			<stddev value="1.26326" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="89" bayesaverage="7.45104" />
+																<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="8" bayesaverage="7.45881" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 13:13:04" />
+	<numplays>3</numplays>			<version>
+		<item type="boardgameversion" id="255161">
+         <thumbnail>//cf.geekdo-images.com/images/pic1904079_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1904079.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="148228" value="Splendor" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25842" value="Space Cowboys" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14878" value="Pascal Quidault" />
+		
+									
+			
+
+			               				<yearpublished value="2014" />
+						               				<productcode value="2014-1/SCSPL01US/CHP001" />
+						               				<width value="8.26772" />
+						               				<length value="10.6299" />
+						               				<depth value="2.55906" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="164153" subtype="boardgame" collid="30940977">
+	<name sortindex="1">Star Wars: Imperial Assault</name>
+		<yearpublished>2014</yearpublished>			<image>//cf.geekdo-images.com/images/pic2247647.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2247647_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="60"																	maxplaytime="120"																	playingtime="120"																	numowned="17579" >
+				<rating value="9">			<usersrated value="9836" />			<average value="8.24062" />
+			<bayesaverage value="7.92544" />			<stddev value="1.41617" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16" bayesaverage="7.92477" />
+																<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="4" bayesaverage="7.96666" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 13:13:16" />
+	<numplays>8</numplays>			<version>
+		<item type="boardgameversion" id="248956">
+         <thumbnail>//cf.geekdo-images.com/images/pic2247647_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2247647.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="164153" value="Star Wars: Imperial Assault" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69246" value="Joel Hustak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24858" value="Henning Ludvigsen" />
+		
+									
+			
+
+			               				<yearpublished value="2014" />
+						               				<productcode value="SWI01" />
+						               				<width value="11.625" />
+						               				<length value="11.625" />
+						               				<depth value="5.25" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="192291" subtype="boardgame" collid="35517603">
+	<name sortindex="1">Sushi Go Party!</name>
+		<yearpublished>2016</yearpublished>			<image>//cf.geekdo-images.com/images/pic3031286.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic3031286_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="8"																	minplaytime="20"																	maxplaytime="20"																	playingtime="20"																	numowned="5060" >
+				<rating value="8">			<usersrated value="1956" />			<average value="7.81172" />
+			<bayesaverage value="7.0667" />			<stddev value="1.07134" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="262" bayesaverage="7.07117" />
+																<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="21" bayesaverage="7.229" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2016-07-21 09:55:57" />
+	<numplays>5</numplays>			<version>
+		<item type="boardgameversion" id="298253">
+         <thumbnail>//cf.geekdo-images.com/images/pic3031286_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic3031286.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="192291" value="Sushi Go Party!" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="108" value="Gamewright" />
+		
+									
+			
+
+			      			
+
+			               				<yearpublished value="2016" />
+						               				<productcode value="" />
+						               				<width value="0" />
+						               				<length value="0" />
+						               				<depth value="0" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="70919" subtype="boardgame" collid="30941027">
+	<name sortindex="1">Takenoko</name>
+		<yearpublished>2014</yearpublished>			<image>//cf.geekdo-images.com/images/pic1912529.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1912529_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="45"																	maxplaytime="45"																	playingtime="45"																	numowned="27305" >
+				<rating value="8">			<usersrated value="18241" />			<average value="7.35474" />
+			<bayesaverage value="7.23096" />			<stddev value="1.14892" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="171" bayesaverage="7.23057" />
+																<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="17" bayesaverage="7.2427" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 13:14:07" />
+	<numplays>1</numplays>			<version>
+		<item type="boardgameversion" id="261376">
+         <thumbnail>//cf.geekdo-images.com/images/pic1912529_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1912529.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="70919" value="Takenoko" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English fourth edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="19260" value="Bombyx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12935" value="Nicolas Fructus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="54125" value="Picksel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="48431" value="Yuio" />
+		
+									
+			
+
+			               				<yearpublished value="2014" />
+						               				<productcode value="2014-1/TAK01-US/PA01" />
+						               				<width value="11" />
+						               				<length value="11" />
+						               				<depth value="3.25" />
+						               				<weight value="2.2" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="14996" subtype="boardgame" collid="30941091">
+	<name sortindex="1">Ticket to Ride: Europe</name>
+		<yearpublished>2012</yearpublished>			<image>//cf.geekdo-images.com/images/pic1924077.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1924077_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="30"																	maxplaytime="60"																	playingtime="60"																	numowned="41789" >
+				<rating value="8">			<usersrated value="33376" />			<average value="7.59242" />
+			<bayesaverage value="7.48404" />			<stddev value="1.19127" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="80" bayesaverage="7.48397" />
+																<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="6" bayesaverage="7.4933" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 13:21:03" />
+	<numplays>0</numplays>			<version>
+		<item type="boardgameversion" id="231878">
+         <thumbnail>//cf.geekdo-images.com/images/pic1924077_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1924077.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="14996" value="Ticket to Ride: Europe" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English edition 2012" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1027" value="Days of Wonder" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+			
+
+			               				<yearpublished value="2012" />
+						               				<productcode value="7202" />
+						               				<width value="11.7" />
+						               				<length value="11.7" />
+						               				<depth value="2.8" />
+						               				<weight value="3.4833" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="176229" subtype="boardgame" collid="30941094">
+	<name sortindex="1">Tides of Time</name>
+		<yearpublished>2015</yearpublished>			<image>//cf.geekdo-images.com/images/pic2486726.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2486726_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="15"																	maxplaytime="20"																	playingtime="20"																	numowned="6606" >
+				<rating value="8">			<usersrated value="3695" />			<average value="6.8793" />
+			<bayesaverage value="6.61008" />			<stddev value="1.13193" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="667" bayesaverage="6.61068" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="416" bayesaverage="6.6558" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 13:21:06" />
+	<numplays>1</numplays>			<version>
+		<item type="boardgameversion" id="271266">
+         <thumbnail>//cf.geekdo-images.com/images/pic2486726_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2486726.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="176229" value="Tides of Time" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12019" value="Tomasz Jedruszek" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69028" value="Chris Ostrowski" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="81769" value="Dan Pellow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="81767" value="Blake Rottinger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="81766" value="Artur Sadlos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="21002" value="Rafał Szyma" />
+		
+									
+			
+
+			               				<yearpublished value="2015" />
+						               				<productcode value="PLG0770" />
+						               				<width value="7.4" />
+						               				<length value="4.7" />
+						               				<depth value="1.7" />
+						               				<weight value="0.6" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="163068" subtype="boardgame" collid="30941108">
+	<name sortindex="1">Trickerion: Legends of Illusion</name>
+		<yearpublished>2015</yearpublished>			<image>//cf.geekdo-images.com/images/pic2585510.png</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2585510_t.png</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="60"																	maxplaytime="120"																	playingtime="120"																	numowned="4720" >
+				<rating value="8">			<usersrated value="2123" />			<average value="7.88134" />
+			<bayesaverage value="7.15722" />			<stddev value="1.3548" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="210" bayesaverage="7.15936" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="107" bayesaverage="7.30756" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2016-05-23 12:45:51" />
+	<numplays>1</numplays>			<version>
+		<item type="boardgameversion" id="247002">
+         <thumbnail>//cf.geekdo-images.com/images/pic2585510_t.png</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2585510.png</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="163068" value="Trickerion: Legends of Illusion" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29156" value="Mindclash Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="76972" value="Villő Farkas" />
+		
+									
+			
+
+			               				<yearpublished value="2015" />
+						               				<productcode value="1412-541" />
+						               				<width value="11.7" />
+						               				<length value="11.7" />
+						               				<depth value="2.8" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="169704" subtype="boardgame" collid="30941117">
+	<name sortindex="1">Vault Wars</name>
+		<yearpublished>2015</yearpublished>			<image>//cf.geekdo-images.com/images/pic2686721.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2686721_t.jpg</thumbnail>
+		<stats minplayers="3"																	maxplayers="5"																	minplaytime="45"																	maxplaytime="60"																	playingtime="60"																	numowned="1438" >
+				<rating value="8">			<usersrated value="694" />			<average value="7.05009" />
+			<bayesaverage value="6.16831" />			<stddev value="1.19552" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1453" bayesaverage="6.16689" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-30 13:53:10" />
+	<numplays>2</numplays>			<version>
+		<item type="boardgameversion" id="260314">
+         <thumbnail>//cf.geekdo-images.com/images/pic2686721_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2686721.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="169704" value="Vault Wars" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="First edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21756" value="Floodgate Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65633" value="Jacqui Davis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="57444" value="Kelly McClellan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="39902" value="Peter Wocken" />
+		
+									
+			
+
+			               				<yearpublished value="2015" />
+						               				<productcode value="VW01" />
+						               				<width value="0" />
+						               				<length value="0" />
+						               				<depth value="0" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="115746" subtype="boardgame" collid="30941125">
+	<name sortindex="1">War of the Ring (second edition)</name>
+		<yearpublished>2011</yearpublished>			<image>//cf.geekdo-images.com/images/pic1215633.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1215633_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="150"																	maxplaytime="180"																	playingtime="180"																	numowned="8829" >
+				<rating value="9">			<usersrated value="5687" />			<average value="8.35588" />
+			<bayesaverage value="7.92861" />			<stddev value="1.5628" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14" bayesaverage="7.92876" />
+																<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="3" bayesaverage="8.06196" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2017-01-10 13:39:11" />
+	<numplays>2</numplays>			<version>
+		<item type="boardgameversion" id="142738">
+         <thumbnail>//cf.geekdo-images.com/images/pic1215633_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1215633.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="115746" value="War of the Ring (second edition)" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English second edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17917" value="Ares Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11884" value="John Howe" />
+		
+									
+			
+
+			               				<yearpublished value="2011" />
+						               				<productcode value="WOTR001" />
+						               				<width value="11" />
+						               				<length value="16" />
+						               				<depth value="3.5" />
+						               				<weight value="6.56" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="176530" subtype="boardgame" collid="30941138">
+	<name sortindex="1">Xenon Profiteer</name>
+		<yearpublished>2015</yearpublished>			<image>//cf.geekdo-images.com/images/pic2537665.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2537665_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="695" >
+				<rating value="8">			<usersrated value="412" />			<average value="7.36592" />
+			<bayesaverage value="6.09828" />			<stddev value="1.08035" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1635" bayesaverage="6.09828" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2016-01-21 23:15:10" />
+	<numplays>5</numplays>			<version>
+		<item type="boardgameversion" id="271801">
+         <thumbnail>//cf.geekdo-images.com/images/pic2537665_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic2537665.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="176530" value="Xenon Profiteer" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="First edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="597" value="Eagle-Gryphon Games" />
+		
+									
+			
+
+			      			
+
+			               				<yearpublished value="2015" />
+						               				<productcode value="" />
+						               				<width value="6.205" />
+						               				<length value="8.461" />
+						               				<depth value="1.989" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		<item objecttype="thing" objectid="113924" subtype="boardgame" collid="38708903">
+	<name sortindex="1">Zombicide</name>
+		<yearpublished>2012</yearpublished>			<image>//cf.geekdo-images.com/images/pic1921579.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1921579_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="6"																	minplaytime="45"																	maxplaytime="180"																	playingtime="180"																	numowned="14866" >
+				<rating value="8">			<usersrated value="10310" />			<average value="7.34525" />
+			<bayesaverage value="7.10719" />			<stddev value="1.55309" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="236" bayesaverage="7.10693" />
+																<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="87" bayesaverage="7.08333" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2016-12-15 10:31:07" />
+	<numplays>2</numplays>			<version>
+		<item type="boardgameversion" id="138935">
+         <thumbnail>//cf.geekdo-images.com/images/pic1921579_t.jpg</thumbnail>
+      <image>//cf.geekdo-images.com/images/pic1921579.jpg</image>
+            				
+		 			
+
+			
+		
+					<link type="boardgameversion" id="113924" value="Zombicide" inbound="true"/>
+		
+									
+			
+
+			                               				
+				<name type="primary" sortindex="1" value="English first edition" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21020" value="Guillotine Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12935" value="Nicolas Fructus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14551" value="Édouard Guiton" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="29422" value="Mathieu Harlaut" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="55930" value="Eric Nouhaut" />
+		
+									
+			
+
+			               				<yearpublished value="2012" />
+						               				<productcode value="GUG0001" />
+						               				<width value="11.7" />
+						               				<length value="11.7" />
+						               				<depth value="2.8" />
+						               				<weight value="0" />
+						      				
+		 			
+
+			
+		
+					<link type="language" id="2184" value="English" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+
+	</version>
+						</item>
+		
+</items>

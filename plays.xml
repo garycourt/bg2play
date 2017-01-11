@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="utf-8"?><plays username="garycourt" userid="1170164" total="178" page="1" termsofuse="http://boardgamegeek.com/xmlapi/termsofuse">
+<play id="21522048" date="2017-01-07" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Sherlock Holmes Consulting Detective" objecttype="thing" objectid="2511">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="21471850" date="2017-01-04" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Evolution" objecttype="thing" objectid="155703">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="21233663" date="2016-12-23" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Codenames" objecttype="thing" objectid="178900">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="21233665" date="2016-12-23" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Sushi Go!" objecttype="thing" objectid="133473">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="21204107" date="2016-12-21" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Balderdash" objecttype="thing" objectid="163">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="21176800" date="2016-12-19" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Codenames" objecttype="thing" objectid="178900">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="21176324" date="2016-12-19" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Patchwork" objecttype="thing" objectid="163412">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="21176310" date="2016-12-19" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Sushi Go Party!" objecttype="thing" objectid="192291">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="21113259" date="2016-12-14" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Zombicide" objecttype="thing" objectid="113924">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="21055977" date="2016-12-09" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Agricola" objecttype="thing" objectid="31260">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="21055980" date="2016-12-09" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Small World Underground" objecttype="thing" objectid="97786">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20999019" date="2016-12-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Cards Against Humanity" objecttype="thing" objectid="50381">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20999003" date="2016-12-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="DC Comics Deck-Building Game" objecttype="thing" objectid="125678">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20999070" date="2016-12-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Dead of Winter: A Crossroads Game" objecttype="thing" objectid="150376">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20999114" date="2016-12-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Exploding Kittens" objecttype="thing" objectid="172225">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20999034" date="2016-12-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="A Game of Thrones: The Board Game (Second Edition)" objecttype="thing" objectid="103343">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20999100" date="2016-12-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Hungry Hungry Hippos" objecttype="thing" objectid="5895">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20999090" date="2016-12-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Imhotep" objecttype="thing" objectid="191862">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20999038" date="2016-12-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Joking Hazard" objecttype="thing" objectid="193621">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20998993" date="2016-12-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="King of New York" objecttype="thing" objectid="160499">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20999102" date="2016-12-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Lanterns: The Harvest Festival" objecttype="thing" objectid="160851">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20999013" date="2016-12-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Mission: Red Planet (second edition)" objecttype="thing" objectid="176920">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20999025" date="2016-12-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Ninja Camp" objecttype="thing" objectid="176565">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20999084" date="2016-12-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Raptor" objecttype="thing" objectid="177639">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20999060" date="2016-12-03" quantity="2" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Secret Hitler" objecttype="thing" objectid="188834">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20999052" date="2016-12-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Zombicide" objecttype="thing" objectid="113924">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20956335" date="2016-11-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Mission: Red Planet (second edition)" objecttype="thing" objectid="176920">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20767745" date="2016-11-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Xenon Profiteer" objecttype="thing" objectid="176530">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20716668" date="2016-11-11" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Dominion" objecttype="thing" objectid="36218">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20716669" date="2016-11-11" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Dominion" objecttype="thing" objectid="36218">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20716673" date="2016-11-11" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Imhotep" objecttype="thing" objectid="191862">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20544154" date="2016-10-29" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="War of the Ring (second edition)" objecttype="thing" objectid="115746">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20544156" date="2016-10-28" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Codenames" objecttype="thing" objectid="178900">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20544159" date="2016-10-28" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Coup" objecttype="thing" objectid="131357">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20544161" date="2016-10-28" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Coup: Rebellion G54" objecttype="thing" objectid="148943">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20512952" date="2016-10-26" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Super Motherload" objecttype="thing" objectid="162286">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20427908" date="2016-10-19" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Mastermind" objecttype="thing" objectid="2392">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20427889" date="2016-10-19" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Snow Tails" objecttype="thing" objectid="38054">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20366648" date="2016-10-14" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Carcassonne" objecttype="thing" objectid="822">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20366653" date="2016-10-14" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Concept" objecttype="thing" objectid="147151">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20366638" date="2016-10-14" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Glass Road" objecttype="thing" objectid="143693">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20321404" date="2016-10-09" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Chinatown" objecttype="thing" objectid="47">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20321407" date="2016-10-09" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Codenames" objecttype="thing" objectid="178900">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20267788" date="2016-10-05" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Star Wars: Imperial Assault – Twin Shadows" objecttype="thing" objectid="175211">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameexpansion" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20235923" date="2016-10-02" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Food Chain Magnate" objecttype="thing" objectid="175914">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20235929" date="2016-10-02" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Ra" objecttype="thing" objectid="12">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20235881" date="2016-10-01" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Agricola:  All Creatures Big and Small" objecttype="thing" objectid="119890">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20235849" date="2016-10-01" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="BattleCON: Fate of Indines" objecttype="thing" objectid="162388">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20235899" date="2016-10-01" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Blood Rage" objecttype="thing" objectid="170216">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20235912" date="2016-10-01" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Codenames: Pictures" objecttype="thing" objectid="198773">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20235874" date="2016-10-01" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Dimension" objecttype="thing" objectid="153318">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20235857" date="2016-10-01" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Karuba" objecttype="thing" objectid="183251">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20235894" date="2016-10-01" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="The Networks" objecttype="thing" objectid="72321">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20235906" date="2016-10-01" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Potion Explosion" objecttype="thing" objectid="180974">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20235890" date="2016-10-01" quantity="5" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Santorini" objecttype="thing" objectid="194655">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20210722" date="2016-09-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="The Pursuit of Happiness" objecttype="thing" objectid="181687">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20210709" date="2016-09-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Santorini" objecttype="thing" objectid="194655">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20210710" date="2016-09-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Santorini" objecttype="thing" objectid="194655">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20210721" date="2016-09-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Stockpile" objecttype="thing" objectid="161614">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20210715" date="2016-09-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Viticulture" objecttype="thing" objectid="128621">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20152875" date="2016-09-25" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="One Zero One" objecttype="thing" objectid="150298">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20152872" date="2016-09-25" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Patchwork" objecttype="thing" objectid="163412">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20142203" date="2016-09-23" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Sherlock Holmes Consulting Detective" objecttype="thing" objectid="2511">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20057435" date="2016-09-07" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Imhotep" objecttype="thing" objectid="191862">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20057440" date="2016-09-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Linko!" objecttype="thing" objectid="153065">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="20057442" date="2016-09-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Love Letter" objecttype="thing" objectid="129622">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19830815" date="2016-08-24" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Star Wars: Imperial Assault – Twin Shadows" objecttype="thing" objectid="175211">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameexpansion" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19722021" date="2016-08-15" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Sherlock Holmes Consulting Detective" objecttype="thing" objectid="2511">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19722027" date="2016-08-06" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Star Wars: Imperial Assault – Twin Shadows" objecttype="thing" objectid="175211">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameexpansion" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19722033" date="2016-08-06" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Star Wars: Imperial Assault – Twin Shadows" objecttype="thing" objectid="175211">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameexpansion" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19486372" date="2016-07-26" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Leaving Earth" objecttype="thing" objectid="173064">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19458073" date="2016-07-23" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Daxu" objecttype="thing" objectid="174192">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19458067" date="2016-07-23" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Imhotep" objecttype="thing" objectid="191862">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19458064" date="2016-07-23" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Small World" objecttype="thing" objectid="40692">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19432463" date="2016-07-22" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Leaving Earth" objecttype="thing" objectid="173064">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19419333" date="2016-07-20" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Sushi Go Party!" objecttype="thing" objectid="192291">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19407291" date="2016-07-19" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Machi Koro: Deluxe Edition" objecttype="thing" objectid="175239">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgamecompilation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19396793" date="2016-07-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Daxu" objecttype="thing" objectid="174192">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19361058" date="2016-07-15" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Imhotep" objecttype="thing" objectid="191862">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19358211" date="2016-07-15" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Leaving Earth" objecttype="thing" objectid="173064">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19361064" date="2016-07-15" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Love Letter" objecttype="thing" objectid="129622">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19361060" date="2016-07-15" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Sushi Go Party!" objecttype="thing" objectid="192291">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19332711" date="2016-07-12" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Sushi Go Party!" objecttype="thing" objectid="192291">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19332712" date="2016-07-12" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Sushi Go Party!" objecttype="thing" objectid="192291">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19305338" date="2016-07-09" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Machi Koro" objecttype="thing" objectid="143884">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19305348" date="2016-07-09" quantity="2" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Sushi Go!" objecttype="thing" objectid="133473">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19242004" date="2016-07-04" quantity="2" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Machi Koro" objecttype="thing" objectid="143884">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19233804" date="2016-07-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Machi Koro" objecttype="thing" objectid="143884">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19133893" date="2016-06-24" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Codenames" objecttype="thing" objectid="178900">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19133889" date="2016-06-24" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Coup" objecttype="thing" objectid="131357">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19133901" date="2016-06-24" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="One Night Revolution" objecttype="thing" objectid="176361">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="19008023" date="2016-06-12" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Vault Wars" objecttype="thing" objectid="169704">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18962815" date="2016-06-08" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Raptor" objecttype="thing" objectid="177639">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18928808" date="2016-06-04" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Linko!" objecttype="thing" objectid="153065">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18895656" date="2016-06-02" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Jaipur" objecttype="thing" objectid="54043">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18895657" date="2016-06-02" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Takenoko" objecttype="thing" objectid="70919">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18863852" date="2016-05-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Expedition: Northwest Passage" objecttype="thing" objectid="71074">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18850206" date="2016-05-28" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Concept" objecttype="thing" objectid="147151">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18850214" date="2016-05-28" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Jaipur" objecttype="thing" objectid="54043">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18779377" date="2016-05-22" quantity="1" length="0" incomplete="1" nowinstats="0" location="">
+			<item name="Catan" objecttype="thing" objectid="13">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	</plays><?xml version="1.0" encoding="utf-8"?><plays username="garycourt" userid="1170164" total="178" page="2" termsofuse="http://boardgamegeek.com/xmlapi/termsofuse">
+<play id="18779340" date="2016-05-22" quantity="1" length="0" incomplete="1" nowinstats="0" location="">
+			<item name="Galaxy Trucker" objecttype="thing" objectid="31481">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18779361" date="2016-05-22" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="The Game" objecttype="thing" objectid="173090">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18779358" date="2016-05-22" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Tides of Time" objecttype="thing" objectid="176229">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18779343" date="2016-05-22" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Xenon Profiteer" objecttype="thing" objectid="176530">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18718767" date="2016-05-17" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Dragon Punch" objecttype="thing" objectid="172866">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18718766" date="2016-05-17" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Patchwork" objecttype="thing" objectid="163412">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18626600" date="2016-05-07" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Expedition: Northwest Passage" objecttype="thing" objectid="71074">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18626594" date="2016-05-07" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="KUNE v LAKIA: A Chronicle Of A Royal Lapine Divorce Foretold" objecttype="thing" objectid="155495">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18463621" date="2016-04-24" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="K2" objecttype="thing" objectid="73761">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18463620" date="2016-04-24" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Small World" objecttype="thing" objectid="40692">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18374317" date="2016-04-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Star Wars: Imperial Assault – Twin Shadows" objecttype="thing" objectid="175211">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameexpansion" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18382342" date="2016-04-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Star Wars: Imperial Assault – Twin Shadows" objecttype="thing" objectid="175211">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameexpansion" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18382343" date="2016-04-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Star Wars: Imperial Assault – Twin Shadows" objecttype="thing" objectid="175211">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameexpansion" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18382344" date="2016-04-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Star Wars: Imperial Assault – Twin Shadows" objecttype="thing" objectid="175211">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameexpansion" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18157164" date="2016-03-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Ca$h &#039;n Guns (Second Edition)" objecttype="thing" objectid="155362">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18157166" date="2016-03-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Coup" objecttype="thing" objectid="131357">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18157172" date="2016-03-27" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Sushi Go!" objecttype="thing" objectid="133473">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18038766" date="2016-03-19" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Caverna: The Cave Farmers" objecttype="thing" objectid="102794">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18035676" date="2016-03-18" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Caverna: The Cave Farmers" objecttype="thing" objectid="102794">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18035678" date="2016-03-18" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Sushi Go!" objecttype="thing" objectid="133473">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="18035680" date="2016-03-18" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Xenon Profiteer" objecttype="thing" objectid="176530">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17982413" date="2016-03-13" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Dragon Punch" objecttype="thing" objectid="172866">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17982377" date="2016-03-13" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Epic Spell Wars of the Battle Wizards: Duel at Mt. Skullzfyre" objecttype="thing" objectid="112686">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17982405" date="2016-03-13" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="KUNE v LAKIA: A Chronicle Of A Royal Lapine Divorce Foretold" objecttype="thing" objectid="155495">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17982399" date="2016-03-13" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="San Juan (second edition)" objecttype="thing" objectid="166669">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17982306" date="2016-03-12" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Cards Against Humanity" objecttype="thing" objectid="50381">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17982311" date="2016-03-12" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Dead Man&#039;s Chest" objecttype="thing" objectid="172837">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17982335" date="2016-03-12" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Poker Dice" objecttype="thing" objectid="10502">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17982294" date="2016-03-12" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Star Wars: Imperial Assault" objecttype="thing" objectid="164153">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17982297" date="2016-03-12" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Star Wars: Imperial Assault" objecttype="thing" objectid="164153">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17982299" date="2016-03-12" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Star Wars: Imperial Assault" objecttype="thing" objectid="164153">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17982301" date="2016-03-12" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Star Wars: Imperial Assault" objecttype="thing" objectid="164153">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17867202" date="2016-03-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Concept" objecttype="thing" objectid="147151">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17867214" date="2016-03-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Kryptos" objecttype="thing" objectid="164354">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17867216" date="2016-03-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Kryptos" objecttype="thing" objectid="164354">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17823340" date="2016-02-28" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Concept" objecttype="thing" objectid="147151">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17798398" date="2016-02-26" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Codenames" objecttype="thing" objectid="178900">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17798401" date="2016-02-26" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Linko!" objecttype="thing" objectid="153065">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17798404" date="2016-02-26" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Love Letter" objecttype="thing" objectid="129622">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17798385" date="2016-02-26" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Mascarade" objecttype="thing" objectid="139030">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17798388" date="2016-02-26" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Mascarade" objecttype="thing" objectid="139030">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17798390" date="2016-02-26" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Mascarade" objecttype="thing" objectid="139030">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17798380" date="2016-02-26" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="The Red Dragon Inn 2" objecttype="thing" objectid="33451">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17751890" date="2016-02-22" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Colt Express" objecttype="thing" objectid="158899">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17751891" date="2016-02-22" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Colt Express: Horses &amp; Stagecoach" objecttype="thing" objectid="181158">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameexpansion" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17751887" date="2016-02-22" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="The Resistance: Avalon" objecttype="thing" objectid="128882">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17751888" date="2016-02-22" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="The Resistance: Avalon" objecttype="thing" objectid="128882">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17755573" date="2016-02-22" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="The Resistance: Avalon" objecttype="thing" objectid="128882">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17732838" date="2016-02-20" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Star Wars: Imperial Assault" objecttype="thing" objectid="164153">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17732843" date="2016-02-20" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Star Wars: Imperial Assault" objecttype="thing" objectid="164153">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17732846" date="2016-02-20" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Star Wars: Imperial Assault" objecttype="thing" objectid="164153">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17732851" date="2016-02-15" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Sherlock Holmes Consulting Detective" objecttype="thing" objectid="2511">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17582565" date="2016-02-06" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Sushi Go!" objecttype="thing" objectid="133473">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17498833" date="2016-02-01" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Splendor" objecttype="thing" objectid="148228">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17498841" date="2016-02-01" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Splendor" objecttype="thing" objectid="148228">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17498845" date="2016-02-01" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Splendor" objecttype="thing" objectid="148228">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17498859" date="2016-02-01" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Sushi Go!" objecttype="thing" objectid="133473">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17498861" date="2016-02-01" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Sushi Go!" objecttype="thing" objectid="133473">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17466695" date="2016-01-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="One Night Ultimate Werewolf" objecttype="thing" objectid="147949">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17468193" date="2016-01-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="One Night Ultimate Werewolf" objecttype="thing" objectid="147949">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17464043" date="2016-01-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="The Red Dragon Inn" objecttype="thing" objectid="24310">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17464045" date="2016-01-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="The Red Dragon Inn" objecttype="thing" objectid="24310">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17464032" date="2016-01-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Small World Designer Edition" objecttype="thing" objectid="140135">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgamecompilation" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17464051" date="2016-01-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Stone Age" objecttype="thing" objectid="34635">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17428149" date="2016-01-26" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Star Wars: Imperial Assault" objecttype="thing" objectid="164153">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17428173" date="2016-01-25" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="War of the Ring (second edition)" objecttype="thing" objectid="115746">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17428090" date="2016-01-23" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="The Game" objecttype="thing" objectid="173090">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17428105" date="2016-01-18" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Istanbul" objecttype="thing" objectid="148949">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17428151" date="2016-01-18" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Tokaido Collector&#039;s Edition" objecttype="thing" objectid="155731">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgamecompilation" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17428177" date="2016-01-18" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Xenon Profiteer" objecttype="thing" objectid="176530">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17428085" date="2016-01-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="The Game" objecttype="thing" objectid="173090">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17428207" date="2016-01-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Xenon Profiteer" objecttype="thing" objectid="176530">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17428009" date="2016-01-11" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Castles of Mad King Ludwig" objecttype="thing" objectid="155426">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17428171" date="2016-01-11" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Vault Wars" objecttype="thing" objectid="169704">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17428049" date="2016-01-09" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Codenames" objecttype="thing" objectid="178900">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17428063" date="2016-01-08" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Sherlock Holmes Consulting Detective" objecttype="thing" objectid="2511">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameintegration" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17428140" date="2016-01-04" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Sheriff of Nottingham" objecttype="thing" objectid="157969">
+				<subtypes>
+										<subtype value="boardgame" />
+										<subtype value="boardgameimplementation" />
+									</subtypes>
+			</item>
+								</play>
+	<play id="17428153" date="2016-01-04" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+			<item name="Trickerion: Legends of Illusion" objecttype="thing" objectid="163068">
+				<subtypes>
+										<subtype value="boardgame" />
+									</subtypes>
+			</item>
+								</play>
+	</plays>

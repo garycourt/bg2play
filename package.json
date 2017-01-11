@@ -1,0 +1,28 @@
+{
+  "name": "bg2play",
+  "version": "1.0.0",
+  "description": "Pulls collection & play history from BGG, lists games that need to be played.",
+  "main": "index.js",
+  "dependencies": {
+    "@types/date-fns": "^2.6.0",
+    "@types/gulp": "^3.8.32",
+    "@types/lodash": "^4.14.48",
+    "@types/node-fetch": "^1.6.7",
+    "@types/sax": "0.0.28",
+    "date-fns": "^1.24.0",
+    "gulp": "^3.9.1",
+    "lodash": "^4.17.4",
+    "node-fetch": "^1.6.3",
+    "sax": "^1.2.1",
+    "simple-git": "^1.65.0",
+    "typed-promisify": "^0.2.0",
+    "typescript": "^2.1.4",
+    "uri-js": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gary Court",
+  "license": "ISC"
+}
